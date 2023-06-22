@@ -1,0 +1,29 @@
+{
+  "name": "react-native-front-finance-b2b",
+  "version": "1.0.0",
+  "description": "Front Finance React Native Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@front-finance/api": "^1.0.7",
+    "@front-finance/link": "^1.0.7",
+    "axios": "^1.4.0",
+    "expo": "~48.0.18",
+    "expo-status-bar": "~1.4.4",
+    "expo-updates": "~0.16.4",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-config": "^1.5.1",
+    "react-native-webview": "11.26.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "keywords": [
+    "front-finance-ract-native"
+  ],
+  "author": "Eric Ahlqvist Scott <eric@getfront.com>",
+  "license": "MIT"
+}
